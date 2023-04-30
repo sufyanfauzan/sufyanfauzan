@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
 </p>
-<p align="left">Bahasa diatas adalah bagian dari kode publik saya dan tidak mencerminkan pengalaman atau keterampilan.</p>
+<p align="left">Note : Bahasa diatas adalah bagian dari kode publik saya dan tidak mencerminkan pengalaman atau keterampilan.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/sufyan_nz" target="blank"><img align="center"
