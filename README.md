@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sufyan Fauzan</h1>
 <h3 align="center">I'm a web developer</h3>
 
-- 🌱 I’m currently learning **I’m currently learning Laravel**
+- 🌱 I’m currently learning **Laravel**
 
 - ⚡ Fun fact **I play games and code**
 
