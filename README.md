@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufyan Fauzan</h1>
-<h3 align="center">I'm a web developer</h3>
+<h3 align="center">I'm a Web Developer</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
