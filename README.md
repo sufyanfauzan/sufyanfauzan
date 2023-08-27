@@ -9,7 +9,7 @@
 '🤓 Mostly self-taught',
 '✨ Trying my best to write readable codes',
 '⚡ Fun fact **I play games and code'
-].forEach((e) => { console.log(e) });
+]
 ```
 <hr>
 
