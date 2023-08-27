@@ -8,7 +8,7 @@
 '🌐 Web Developer',
 '🤓 Mostly self-taught',
 '✨ Trying my best to write readable codes',
-'⚡ Fun fact **I play games and code'
+'⚡ Fun fact i play games and code'
 ]
 ```
 <hr>
