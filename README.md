@@ -24,14 +24,17 @@
 	<tr>
 		<td>
 			<img alt="MySQL" 
-				src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white">
+				src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 			<img alt="postgresql" 
 				src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white">
+			<img alt="Git" 
+				src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+			<img alt="GitLab" 
+				src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 		</td>
 	</tr>
 </table>
