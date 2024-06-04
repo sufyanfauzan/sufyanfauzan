@@ -1,56 +1,47 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" width="450px"/>
-</p>
-
 <hr>
 
 ```javascript
-// index.js
+// script
 [
-'🌐 Web Developer',
-'🤓 Mostly self-taught',
-'✨ Trying my best to write readable codes',
-'⚡ Fun fact i play games and code'
+  '💻 Backend Developer',
+  '📚 Lifelong learner',
+  '⚡ Fun fact: I enjoy solving complex algorithms and puzzles'
 ]
 ```
 <hr>
 
-<p><img align="right"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=sufyanfauzan&show_icons=true&theme=dark&locale=en&layout=compact"
-		alt="sufyanfauzan" /></p>
-
 <table>
 	<tr>
-		<td>Front-End</td>
 		<td>
-			<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white">
-			<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">
-			<img alt="JavaScript"
-				src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black">
-			<img alt="Bootstrap"
-				src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white">
+			<img alt="Vue.js" 
+				src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+			<img alt="Laravel" 
+				src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+			<img alt="TailwindCSS"
+				src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 		</td>
 	</tr>
 	<tr>
-		<td>Back-End</td>
 		<td>
-			<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white">
-			<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat&logo=Laravel&logoColor=white">
+			<img alt="MySQL" 
+				src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white">
+			<img alt="postgresql" 
+				src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 		</td>
 	</tr>
 	<tr>
-		<td>Database</td>
-		<td>
-			<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white">
-		</td>
-	</tr>
-	<tr>
-		<td>Other</td>
 		<td>
 			<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white">
 		</td>
 	</tr>
 </table>
 
+<hr>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake.svg">
+<img alt="snake animation" src="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake.svg">
+</picture>
 
 > The language above is only the language I use
