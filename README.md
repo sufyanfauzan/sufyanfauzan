@@ -39,6 +39,8 @@
 	</tr>
 </table>
 
+> The language above is only the language I use
+
 <hr>
 
 <picture>
@@ -46,5 +48,3 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake.svg">
 <img alt="snake animation" src="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake.svg">
 </picture>
-
-> The language above is only the language I use
