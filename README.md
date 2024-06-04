@@ -35,6 +35,8 @@
 				src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 			<img alt="GitLab" 
 				src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+			<img alt="Visual Studio Code" 
+				src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 		</td>
 	</tr>
 </table>
